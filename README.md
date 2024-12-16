@@ -48,3 +48,8 @@ https://github.com/user-attachments/assets/81970624-a38d-4ab9-920b-c921ca31ec81
 3. Execute the SQL queries provided in the project to analyze the data and answer the questions.
 
 4. Review the query results and interpret the insights gained from the analysis.
+   
+
+---
+
+This repository is part of my portfolio showcasing data analysis and visualization projects. **Feedback and suggestions are welcome!**

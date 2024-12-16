@@ -36,7 +36,7 @@ To answer the above questions, SQL queries are written to extract relevant infor
 
 ## Schema- Music Database!
 
-![Schema]([MusicDatabaseSchema](https://github.com/user-attachments/assets/81970624-a38d-4ab9-920b-c921ca31ec81))
+![Schema][MusicDatabaseSchema](https://github.com/user-attachments/assets/81970624-a38d-4ab9-920b-c921ca31ec81)
 
 
 ## Usage
